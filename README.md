@@ -45,7 +45,8 @@
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer301&layout=compact&theme=tokyonight)
-
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 ## 🌐 Connect with Me
 
 - LinkedIn: www.linkedin.com/in/md-zobayer-chowdhury-5203461b3
