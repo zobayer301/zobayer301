@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zobayer
+# Hello beautiful, This is Zobayer
 
 🎓 Computer Science and Engineering graduate from Green University of Bangladesh
 
@@ -6,10 +6,11 @@
 
 🌱 Currently learning:
 - Machine Learning
+- Artificial Intelligence
 - Deep Learning
 - MLOps
 - Docker
-- Cloud Technologies
+  
 
 🔭 Currently working on:
 - Machine Learning Projects
