@@ -1,4 +1,4 @@
-# Hello beautiful, This is Zobayer
+# Hello beautiful people, This is Zobayer
 
 🎓 Computer Science and Engineering graduate from Green University of Bangladesh
 
