@@ -1,56 +1,85 @@
-# Hello beautiful people, This is Zobayer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zobayer301.zobayer301" />
 
-🎓 Computer Science and Engineering graduate from Green University of Bangladesh
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+Md.+Zobayer+Chowdhury!;Computer+Science+Graduate;Aspiring+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" />
+</h1>
 
-💡 Passionate about Artificial Intelligence, Machine Learning and Data Science.
+<h3 align="center">Computer Science Graduate | Data Science & Machine Learning Enthusiast | Bangladesh 🇧🇩</h3>
 
-🌱 Currently learning:
-- Machine Learning
-- Artificial Intelligence
-- Deep Learning
-- MLOps
-- Docker
-  
+<br/>
 
-🔭 Currently working on:
-- Machine Learning Projects
-- Research in AI and Data Science
-- Python-based Applications
+<div align="center">
 
-## 🛠️ Languages and Tools
+🔭 I’m currently working on **Machine Learning & Data Science Projects**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📚 Interests
+🌱 I’m currently learning **Deep Learning, MLOps, Docker, AWS & System Design**
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Deep Learning
-- Computer Vision
-- NLP
-- MLOps
+👨‍💻 My thesis: **AI-Driven Early Detection of Heart Disease Using Machine Learning and Deep Learning**
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer301&layout=compact&theme=tokyonight)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-## 🌐 Connect with Me
+💬 Ask me about **Python, Machine Learning, Data Science, SQL, Pandas, Scikit-learn & Git**
 
-- LinkedIn: www.linkedin.com/in/md-zobayer-chowdhury-5203461b3
-- Email: mdzobayerchowdhury3077@gmail.com
+⚡ Fun fact: **I enjoy solving real-world problems with AI and continuously learning new technologies.**
 
----
-⭐ Always eager to learn, build, and contribute to impactful projects.
+</div>
+
+<div align="center">
+  <a href="mailto:mdzobayerchowdhury3077@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-zobayer-chowdhury-5203461b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/zobayer301" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,mysql" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,flask,django,git,github,docker,vscode,jupyter" />
+
+</div>
+
+<br/>
+
+<hr/>
+
+
+<div align="center">
+
+### 💻 Currently Focusing On
+
+🧠 Machine Learning
+
+📊 Data Science
+
+🤖 Deep Learning
+
+🐍 Python
+
+☁️ AWS & Docker
+
+📚 Open Source Contributions
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zobayer301&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
